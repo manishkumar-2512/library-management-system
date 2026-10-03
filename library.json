@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Name": "Python Crash Course",
+    "Author": "Eric Matthes",
+    "Code": "PY001",
+    "Status": "Available"
+  },
+  {
+    "Name": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Code": "CC001",
+    "Status": "Borrowed"
+  }
+]
